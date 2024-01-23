@@ -1,0 +1,30 @@
+.menu {
+    list-style: none;
+    background-color: rgb(56, 157, 56);
+    font-size: 60px;
+    width: 600px;
+    height: 100%;
+    position: absolute;
+    font: bolder;
+
+}
+
+li {
+
+    margin: 80px;
+    list-style: none;
+    margin-left: 0%;
+}
+
+a {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    background-color: rgb(10, 75, 10);
+}
